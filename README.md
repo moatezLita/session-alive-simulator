@@ -20,7 +20,7 @@ Note: tkinter is part of the Python standard library and should already be insta
 ## Usage
 Run the script using Python:
 ```bash
-python session_alive_simulator.py
+python session_alive_simulator.pyw
 ```
 For Windows users, you can also double-click the session_alive_simulator.pyw file to run the script without opening a console window.
 A window will appear with "Start" and "Stop" buttons to control the simulation. Click "Start" to begin simulating mouse activity, and click "Stop" to end the simulation.
